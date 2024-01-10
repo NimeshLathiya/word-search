@@ -13,6 +13,12 @@ const Footer = () => {
         >
           Nimesh Lathiya
         </a>
+        <a
+          href="https://github.com/NimeshLathiya/word-search.git"
+          target="_blank"
+        >
+          Nimesh Lathiya
+        </a>
       </span>
     </div>
   );

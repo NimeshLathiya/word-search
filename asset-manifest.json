@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-search/static/css/main.0ce63ea7.css",
+    "main.js": "/word-search/static/js/main.ae8942f9.js",
+    "index.html": "/word-search/index.html",
+    "main.0ce63ea7.css.map": "/word-search/static/css/main.0ce63ea7.css.map",
+    "main.ae8942f9.js.map": "/word-search/static/js/main.ae8942f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ce63ea7.css",
+    "static/js/main.ae8942f9.js"
+  ]
+}

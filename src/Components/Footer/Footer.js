@@ -7,10 +7,7 @@ const Footer = () => {
       <hr style={{ width: "90%", marginTop: 20 }} />
       <span className="name">
         Made by{" "}
-        <a
-          href="https://github.com/NimeshLathiya/word-search/tree/main"
-          target="__blank"
-        >
+        <a href="https://github.com/NimeshLathiya/word-search" target="__blank">
           Nimesh Lathiya
         </a>
       </span>

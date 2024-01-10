@@ -10,9 +10,6 @@ const Footer = () => {
         <a href="https://github.com/NimeshLathiya/word-search" target="__blank">
           Nimesh Lathiya
         </a>
-        <a href="https://github.com/NimeshLathiya/word-search" target="_blank">
-          Nimesh Lathiya
-        </a>
       </span>
     </div>
   );

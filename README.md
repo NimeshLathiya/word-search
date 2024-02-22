@@ -4,6 +4,22 @@
 
 https://nimeshlathiya.github.io/word-search/
 
+##Description
+/*
+
+Word search
+
+I have developed a project titled "Word Hunt," which serves as a comprehensive dictionary with an integrated text-to-speech feature. This application is designed to facilitate users in efficiently searching for words and obtaining their respective explanations through an audio narration. The technology stack employed in the development of this project includes React.js, HTML, and CSS, enabling a seamless and intuitive user interface.
+
+Additionally, "Word Hunt" is designed as a Progressive Web App (PWA), offering enhanced user experience and performance. As a PWA, it allows users to access the application from their web browsers without the need for installation, ensuring easy accessibility across various devices and platforms.
+
+The application's primary objective is to provide users with a user-friendly and efficient tool for exploring word meanings, improving language skills, and enhancing overall comprehension. The combination of React.js, HTML, and CSS ensures a modern and visually appealing interface, while the text-to-speech functionality adds an auditory dimension, enriching the user experience.
+
+By employing professional language and fixing grammatical errors, the application aims to cater to a wide range of users seeking a reliable and sophisticated dictionary solution. With "Word Hunt," users can embark on an educational journey, expanding their vocabulary and gaining a deeper understanding of the English language.
+
+In conclusion, "Word Hunt" is a cutting-edge web application that showcases the power of React.js, HTML, and CSS in creating a feature-rich dictionary. Its incorporation of text-to-speech functionality and status as a Progressive Web App underlines its commitment to user convenience and accessibility. Whether utilized for educational purposes, language enhancement, or casual word exploration, "Word Hunt" is certain to become an invaluable tool in the pursuit of linguistic knowledge.
+
+*/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

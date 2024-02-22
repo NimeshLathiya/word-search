@@ -5,9 +5,8 @@
 https://nimeshlathiya.github.io/word-search/
 
 ##Description
-/*
 
-Word search
+✍ Word search 📝
 
 I have developed a project titled "Word Hunt," which serves as a comprehensive dictionary with an integrated text-to-speech feature. This application is designed to facilitate users in efficiently searching for words and obtaining their respective explanations through an audio narration. The technology stack employed in the development of this project includes React.js, HTML, and CSS, enabling a seamless and intuitive user interface.
 
@@ -19,7 +18,6 @@ By employing professional language and fixing grammatical errors, the applicatio
 
 In conclusion, "Word Hunt" is a cutting-edge web application that showcases the power of React.js, HTML, and CSS in creating a feature-rich dictionary. Its incorporation of text-to-speech functionality and status as a Progressive Web App underlines its commitment to user convenience and accessibility. Whether utilized for educational purposes, language enhancement, or casual word exploration, "Word Hunt" is certain to become an invaluable tool in the pursuit of linguistic knowledge.
 
-*/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

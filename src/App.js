@@ -12,7 +12,7 @@ function App() {
   const [word, setWord] = useState("");
   const [meanings, setMeanings] = useState([]);
   const [catagery, setCatagery] = useState("en");
-  const [lightMode, setLightMode] = useState(false);
+  const [lightMode, setLightMode] = useState();
 
   //!dictionary api
 

@@ -10,7 +10,7 @@ const categories = [
   { value: "Korean", label: "ko" },
   { value: "Brazilian Portuguese", label: "pt-BR" },
   { value: "Arabic", label: "ar" },
-  { value: "", label: "tr" },
+  { value: "Turkish", label: "tr" },
 ];
 
 export default categories;

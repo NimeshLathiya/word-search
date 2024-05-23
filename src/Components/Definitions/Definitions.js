@@ -1,7 +1,7 @@
 import React from "react";
 import "./Definitions.css";
 
-const Definitions = ({ word, meanings, catagery, lightMode }) => {
+const Definitions = ({ , meanings, catagery, lightMode }) => {
   return (
     <div className="meanings">
       {/*ANCHOR audio---------------------------- */}

@@ -6,7 +6,7 @@ import Switch from "@mui/material/Switch";
 import { styled } from "@mui/material/styles";
 import Header from "./Components/Header/Header";
 import Definitions from "./Components/Definitions/Definitions";
-import Footer from "./Components/Footer/Footer";
+import  from "./Components/Footer/Footer";
 
 function App() {
   const [word, setWord] = useState("");

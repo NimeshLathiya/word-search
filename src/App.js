@@ -1,4 +1,4 @@
-import axios from "axios";
+import  from "axios";
 import { useEffect, useState } from "react";
 import "./App.css";
 import { Container, Grid } from "@mui/material";

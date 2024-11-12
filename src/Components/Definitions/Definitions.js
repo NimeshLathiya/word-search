@@ -3,7 +3,7 @@ import "./Definitions.css";
 
 const Definitions = ({ word, meanings, catagery, lightMode }) => {
   return (
-    <div className="meanings">
+    <div 
       {/*ANCHOR audio---------------------------- */}
       {meanings[0] && word && catagery === "en" && (
         <audio
